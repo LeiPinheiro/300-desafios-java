@@ -7,7 +7,7 @@ Este reposítorio é um desafio pessoal onde documento 300 desafios de diferente
 Os desafios são separados em dificuldades (fácil, média e difícil), e dentro dessas dificuldades existem "categorias" de assuntos importantes para aprender.
 **Cada dificuldade tem 100 desafios diferentes, 10 desafios são separados por categorias. Com o passar dos desafios mais difíceis eles ficam.**
 
-## Categorias
+## 📋 Categorias
 - **Nível Fácil**: Arrays & Strings, Loops & Condicionais, OOP Básica, Recursão, Linked Lists, Matemática, Tratamento de Erros, Collections Framework, Manipulação de Arquivos, Threads.
 - **Nível Médio**: Árvores & Grafos, Algoritmos de Ordenação, Programação Dinâmica, Design Patterns, Threads & Concorrência, Estruturas de Dados Avançadas, Algoritmos de Grafos, Problemas de Otimização, Sistemas Distribuídos, Machine Learning Básico.
 - **Nível Difícil**: Algoritmos Avançados, Programação Dinâmica Avançada, Grafos Avançados, Estruturas de Dados Complexas, Concorrência Avançada, Sistemas Distribuídos, Machine Learning, Compiladores & Interpretadores, Segurança, Projetos Complexos.
