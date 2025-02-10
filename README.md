@@ -41,6 +41,6 @@ A lista com todos os desafios está dentro de um arquivo chamado **desafios.txt*
  
 
 ## 🏆 Progresso
-1. ### Nível Dificíl:
+1. ### Nível Fácil:
    - 📅 Desafio 01 - ✅
 
